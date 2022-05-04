@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct ArticleSource:Codable {
+struct ArticleSource: Codable {
     var id: String?
     var name: String?
 }
