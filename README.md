@@ -8,7 +8,8 @@ Appcent internship project.
 # Technologies
 - UIKit
 - Kingfisher
-- Core Data
+- Alamofire
+- WebKit
 
 # Architecture
 MVC architecture was used in this project.
